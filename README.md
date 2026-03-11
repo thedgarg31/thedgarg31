@@ -93,7 +93,7 @@ I believe in writing clean, maintainable software and continuously improving thr
 ## 🌍 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/daksh-garg" target="_blank">
+<a href="https://www.linkedin.com/in/daksh-garg-a81a54287/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 <a href="https://leetcode.com/thedgarg31/" target="_blank">
