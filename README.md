@@ -125,12 +125,36 @@ Winnio
 
 ---
 
-# 🐍 Contribution Graph
+# 🐍 Contribution Snake
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/thedgarg31/thedgarg31/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/thedgarg31/thedgarg31/output/github-contribution-grid-snake.svg"/>
+---
 
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thedgarg31&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 💡 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thedgarg31&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏅 LeetCode
+
+<p align="center">
+  <a href="https://leetcode.com/u/thedgarg31/">
+    <img src="https://leetcard.jacoblin.cool/thedgarg31?theme=dark&font=Nunito&ext=contest"/>
+  </a>
 </p>
 
 ---
