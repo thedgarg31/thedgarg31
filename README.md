@@ -1,110 +1,176 @@
-<!-- Banner -->
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Daksh+Garg;Software+Developer;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Open-Source+Contributor" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3000&pause=1000&color=00A8FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Daksh+Garg;AI+Engineer;Software+Developer;Robotics+Researcher;Computer+Vision+Enthusiast;Open+Source+Contributor" />
 </p>
 
----
-
-<h3 align="center">🚀 Software Developer | AI Engineer | Full-Stack Developer | Open-Source Contributor</h3>
+<h3 align="center">
+AI Engineer • Software Developer • Robotics Researcher • Open Source Contributor
+</h3>
 
 <p align="center">
   <a href="https://github.com/thedgarg31?tab=followers">
     <img src="https://img.shields.io/github/followers/thedgarg31?label=Followers&style=social" />
   </a>
-  <a href="https://github.com/thedgarg31">
-    <img src="https://komarev.com/ghpvc/?username=thedgarg31&color=brightgreen" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=thedgarg31&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I am a passionate **Software Developer and AI Engineer** who loves building scalable, intelligent, and user-centric tech solutions.  
-My work focuses on:
+🎓 B.Tech CSE (Data Science) at **Amity University**  
+📚 BS in Data Science at **IIT Madras**
 
-- 🤖 **Machine Learning & NLP**
-- 🌐 **Full-Stack Development**
-- ⚙️ **Rust/Python-based Systems**
-- 🚀 **Open-Source Engineering**
-- 🧠 **Real-world intelligent applications**
-
-I believe in writing clean, maintainable software and continuously improving through learning and contribution.
+I enjoy building intelligent software by combining **Artificial Intelligence, Robotics, Computer Vision, Software Engineering, and Full-Stack Development**. Passionate about solving real-world problems through research, open source, and scalable systems.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-<table>
-<tr><td>
+### 💻 Languages
 
-### 🔹 Core Languages  
-`Python` | `Rust` | `TypeScript` | `C++` | `JavaScript` | `Java`
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,rust,javascript,mysql" />
+</p>
 
-### 🔹 AI/ML  
-`TensorFlow` • `PyTorch` • `NLP` • `Deep Learning` • `OpenCV` • `Scikit-Learn`
+### 🤖 AI / ML
 
-### 🔹 Web Development  
-`React` • `Next.js` • `Node.js` • `Express` • `Flask` • `Django`  
-`MongoDB` • `MySQL` • `TailwindCSS`
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
 
-### 🔹 DevOps & Tools  
-`Docker` • `GitHub Actions` • `Linux` • `CI/CD` • `Testing (lcov, gcov, GoogleTest)`
+**Also Experienced In**
 
-</td></tr></table>
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Reinforcement Learning
+- LangChain
+- LLMs
+- YOLO
+- ROS2
+- MuJoCo
 
----
+### 🌐 Web Development
 
-## 🚀 Featured Projects
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,django" />
+</p>
 
-| Project | Tech | Description |
-|--------|------|-------------|
-| 🚨 **Legal Document Analyzer** | Python • NLP • LangChain • Flask • React | AI-powered system to analyze and summarize legal clauses |
-| 🧠 **Mental Health Sentiment Analysis** | DL • NLP • Flask/UI | Predictive emotional analysis for psychological patterns |
-| 📚 **AR/VR Immersive Library** | Unity • C# • AI | XR-based reading experience for research & education |
-| 💡 **Smart Health Monitoring System** | IoT • ML • MQTT • React | Real-time analytics dashboard for IoT health tracking |
+### 🗄️ Database & DevOps
 
-🔗 *Pinned below for quick access.*
-
----
-
-## 🏆 Open-Source Journey
-
-- Enhanced **Rust-based repositories** with performance improvements  
-- Improved **CI/CD pipelines, documentation automation, and testing coverage**
-- Fixed UI/UX, responsiveness & SEO across community-driven repos  
-- Contributed scalable ML, tooling, and automation features
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,docker,aws,git,github,linux" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
+# 💼 Experience
+
+🇻🇳 **Research Intern – Robotics & AI**  
+Eastern International University, Vietnam
+
+💻 **Software Engineering Intern**  
+Winnio
+
+🌍 **Open Source Contributor**
+
+- GirlScript Summer of Code
+- JGEC Winter of Code
+- Community Projects
+
+---
+
+# 🚀 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| 🤖 **LifeAtlas Platform** | AI recommendation engine built with FastAPI, LangGraph, PostgreSQL and LLM-based orchestration. |
+| 🦾 **KASSOW – Vision-Based Robotic Grasping** | Intelligent robotic grasping using ROS2, YOLO, Intel RealSense, MuJoCo and Reinforcement Learning. |
+| 💻 **Winnio** | Backend engineering, REST APIs, testing, debugging and production-ready software development. |
+| 🌍 **namel3ss AI** | Open-source contributions involving Rust systems, CI/CD, accessibility, SEO and UI improvements. |
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- AI Agents & LLM Applications
+- Reinforcement Learning
+- System Design
+- Cloud & DevOps
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thedgarg31&show_icons=true&theme=react" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedgarg31&layout=compact&theme=react" height="170"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=thedgarg31&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=thedgarg31&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+---
+
+# 💻 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=thedgarg31&theme=react&date_format=M%20j%5B,%20Y%5D"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thedgarg31&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## 🌍 Connect With Me
+# 🐍 Contribution Graph
 
-<p align="left">
-<a href="https://www.linkedin.com/in/daksh-garg-a81a54287/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-<a href="https://leetcode.com/thedgarg31/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
-</a>
-<a href="mailto:dgav3105@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/thedgarg31/thedgarg31/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
 
-<p align="center">✨ "Learning, Building, and Improving — One Line of Code at a Time." ✨</p>
+# 🏆 GitHub Trophies
 
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=thedgarg31&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:dgav3105@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/daksh-garg">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/thedgarg31">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ **"Building intelligent systems, one commit at a time."**
+
+</p>
